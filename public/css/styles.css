@@ -206,7 +206,18 @@ header{
 }
 
 .dashboard-events-container th{
-    width: 5%;
+    width: 25%;
+}
+
+.dashboard-events-container form{
+    display: inline-block;
+}
+
+/*EDIT PAGE*/
+.img-preview{
+    width: 200px;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 /* FOOTER */
